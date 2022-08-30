@@ -6,7 +6,7 @@ Rabbit is a software-efficient (profile 1), synchronous stream cipher using a 12
 
 ## Statement
 
-source code from http://www.ecrypt.eu.org/stream/p3ciphers/rabbit/rabbit_p3source.zip
+copy from http://www.ecrypt.eu.org/stream/p3ciphers/rabbit/rabbit_p3source.zip
 
 only changes c headers in order to use in arm64.
 
